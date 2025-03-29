@@ -1,6 +1,6 @@
-<h1>Hi, I'm Brayden, an <a href="https://www.linkedin.com/in/brayden-thompson-29a670342/">IT Professional</a>☺</h1>
+<h1>Hey, I'm Brayden, a <a href="https://www.linkedin.com/in/brayden-thompson-29a670342/"> Student, IT Guy, and future Programmer!</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects (CourseCareers):</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/braydnthompsn/osticket-prereqs)
